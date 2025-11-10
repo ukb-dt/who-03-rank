@@ -21,4 +21,4 @@
 | Nested Knowledge | AI-assisted platform for systematic reviews and meta-analyses in life sciences. | Systematic reviews (pharma/biotech) | [nested-knowledge.com](https://nested-knowledge.com) |
 | DistillerSR | Enterprise tool with AI for automating literature screening and review processes. | Systematic reviews (broad) | [distillersr.com](https://www.distillersr.com) |
 
-This table includes a mix of general and specialized tools (e.g., medical-focused like OpenEvidence). I aimed for comprehensiveness based on popular options in the space—there are dozens more niche ones, but these are among the most established and similar in functionality. If you want deeper dives into any or filters by field, let me know!
+This table includes a mix of general and specialized tools (e.g., medical-focused like OpenEvidence). I aimed for comprehensiveness based on popular options in the space—there are dozens more niche ones, but these are among the most established and similar in functionality. 
